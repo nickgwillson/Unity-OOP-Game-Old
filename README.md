@@ -1,1 +1,5 @@
-# Project-6
+Unity game written in C#
+
+OLD-VERSION..... Check reposity for updated files
+
+(p-6)
